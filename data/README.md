@@ -1,10 +1,11 @@
 # Data used in 02456_scVAE project
 
-* Peripheral MononuclearBlood Cells from 10X Genomics Fresh Donor A (10x-68k-PMBC) - subset 1500 samples\*
+* 10x-68k-PMBC - subset 1300 samples
 
-* Latent representations, generated with scVAE tool, of Peripheral MononuclearBlood Cells from 10X Genomics Fresh Donor A (10x-68k-PMBC)
+	- *subset1300_counts.tsv.gz*: single-cell transcript counts 
 
-* PCA of Peripheral MononuclearBlood Cells from 10X Genomics Fresh Donor A (10x-68k-PMBC)
+	- *subset1300_celltypes.tsv*: cell classes
 
+* Latent representations, generated with scVAE tool, of 10x-68k-PMBC data - subset 1300 samples and 15000 samples
 
-\*due to space limitations, this data set is not uploaded but is available upon request
+* PCA of 10x-68k-PMBC data - subset 1300 samples
