@@ -8,6 +8,7 @@
 
 	- *fullset_celltypes.tsv*: cell classes - full data set
 
+<br>
 
 * Latent representations, generated with **scVAE** tool, of 10x-68k-PMBC data \*\* \*\*\*
 
@@ -17,7 +18,7 @@
 
 	- *subset1300_lv50_H250.tsv*: latent values of scVAE Model 10 - 50 latent dimensions - subset 1300 samples
 
-	- *subset15000_lv100_H500.tsv*: latent values of scVAE Model 15 - 100 latent dimensions - subset 1300 samples
+	- *subset1300_lv100_H500.tsv*: latent values of scVAE Model 15 - 100 latent dimensions - subset 1300 samples
 
 	- *subset15000_lv10_H250.tsv*: latent values of scVAE Model 17 - 10 latent dimensions - subset 15000 samples
 	 
@@ -26,7 +27,8 @@
 	- *subset15000_lv50_H250.tsv*: latent values of scVAE Model 19 - 50 latent dimensions - subset 15000 samples
   
 	- *subset15000_lv100_H500.tsv*: latent values of scVAE Model 20 - 100 latent dimensions - subset 15000 samples
-  
+
+<br>
 
 * **PCA** on 10x-68k-PMBC data \*\*\*\*
 
@@ -38,6 +40,7 @@
       
 	- *subset1300_pca100.tsv*: 100 principal components - subset 1300 samples
 
+<br>
 
 \* we were not able to obtain the transcript counts neither for the full 10x-68k-PMBC data set nor for the subset of 15000 samples
 
