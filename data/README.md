@@ -11,32 +11,32 @@
 
 * Latent representations, generated with **scVAE** tool, of 10x-68k-PMBC data \*\* \*\*\*
 
-	 - *subset1300_lv10_H250.tsv*: latent values of scVAE Model 2 - 10 latent dimensions - subset 1300 samples
+	- *subset1300_lv10_H250.tsv*: latent values of scVAE Model 2 - 10 latent dimensions - subset 1300 samples
 	 
-	 - *subset1300_lv25_H500.tsv*: latent values of scVAE Model 7 - 25 latent dimensions - subset 1300 samples
+	- *subset1300_lv25_H500.tsv*: latent values of scVAE Model 7 - 25 latent dimensions - subset 1300 samples
 
-  - *subset1300_lv50_H250.tsv*: latent values of scVAE Model 10 - 50 latent dimensions - subset 1300 samples
-  
-  - *subset15000_lv100_H500.tsv*: latent values of scVAE Model 15 - 100 latent dimensions - subset 1300 samples
+	- *subset1300_lv50_H250.tsv*: latent values of scVAE Model 10 - 50 latent dimensions - subset 1300 samples
 
- 	 - *subset15000_lv10_H250.tsv*: latent values of scVAE Model 17 - 10 latent dimensions - subset 15000 samples
+	- *subset15000_lv100_H500.tsv*: latent values of scVAE Model 15 - 100 latent dimensions - subset 1300 samples
+
+	- *subset15000_lv10_H250.tsv*: latent values of scVAE Model 17 - 10 latent dimensions - subset 15000 samples
 	 
-	 - *subset15000_lv25_H500.tsv*: latent values of scVAE Model 18 - 25 latent dimensions - subset 15000 samples
+	- *subset15000_lv25_H500.tsv*: latent values of scVAE Model 18 - 25 latent dimensions - subset 15000 samples
 
-  - *subset15000_lv50_H250.tsv*: latent values of scVAE Model 19 - 50 latent dimensions - subset 15000 samples
+	- *subset15000_lv50_H250.tsv*: latent values of scVAE Model 19 - 50 latent dimensions - subset 15000 samples
   
-  - *subset15000_lv100_H500.tsv*: latent values of scVAE Model 20 - 100 latent dimensions - subset 15000 samples
+	- *subset15000_lv100_H500.tsv*: latent values of scVAE Model 20 - 100 latent dimensions - subset 15000 samples
   
 
 * **PCA** on 10x-68k-PMBC data \*\*\*\*
 
-  - *subset1300_pca10.tsv*: 10 principal components - subset 1300 samples
+	- *subset1300_pca10.tsv*: 10 principal components - subset 1300 samples
   
-  - *subset1300_pca25.tsv*: 25 principal components - subset 1300 samples
+	- *subset1300_pca25.tsv*: 25 principal components - subset 1300 samples
     
-  - *subset1300_pca50.tsv*: 50 principal components - subset 1300 samples
+	- *subset1300_pca50.tsv*: 50 principal components - subset 1300 samples
       
-  - *subset1300_pca100.tsv*: 100 principal components - subset 1300 samples
+	- *subset1300_pca100.tsv*: 100 principal components - subset 1300 samples
 
 
 \* we were not able to obtain the transcript counts neither for the full 10x-68k-PMBC data set nor for the subset of 15000 samples
