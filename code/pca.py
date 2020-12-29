@@ -67,7 +67,7 @@ plt.xlabel("Number of components")
 plt.ylabel("Variance explained (%)")
 plt.title("Principal Component Analysis of 10x-68k-PMBC \nsubset 1300 samples")
 plt.ylim(0, 100)
-plt.savefig('pca_variance_explained.png')
+plt.savefig(path_results + 'pca_variance_explained.png')
 
 # Save PCA data
 pd.DataFrame(X_pca_10).to_csv(path_output + 'pca_10.tsv', sep='\t')
