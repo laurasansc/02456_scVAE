@@ -2,7 +2,9 @@
 
 
 *Z: latent dimensions*
+
 *H: hidden layers*
+
 *more information in [scVAE repository](https://github.com/scvae/scvae)*
 
 ## Models 1 - 16: 10x-PBMC-68k subset 1300 samples (~2%)
@@ -105,7 +107,9 @@
 
 ## Models 17 - 20: 10x-PBMC-68k subset 15000 samples (~20%)
 
-For each latent dimension, the number of layers of the top performing model trained on the small subset (1300) was selected.
+*For each latent dimension (Z), the top performing model trained on the small subset (1300) was run.*
+
+<br>
 
 **Model 17**: Z = 10, H = 250
 
