@@ -1,0 +1,13 @@
+Timestamp: 2020-11-30 08:51:05 CET
+Number of epochs trained: 100
+
+Evaluation:
+    ELBO: -5030.9.
+    ENRE: -4978.
+    KL_z: 51.723.
+    KL_y: 1.2354.
+    Accuracy:  36.92 %.
+
+Data set        mean   std. dev.   dispersion   minimum    maximum   sparsity
+original       0.041893   0.63429    9.6035     0            87           0.98344
+reconstructed  0.13597    2.8582     60.082     0.0001286    3888.8       0.98635
