@@ -1,0 +1,15 @@
+Timestamp: 2020-11-25 19:18:59 CET
+Number of epochs trained: 100
+Prediction method: model
+Number of classes: 11
+
+Clustering metrics:
+    Adjusted Rand index:
+        Clusters: 0.098519.
+        Labels: 0.087286.
+    Adjusted mutual information:
+        Clusters: 0.10228.
+        Labels: 0.097267.
+    Silhouette score:
+        Clusters: -0.096604.
+        Labels: 0.027168.
