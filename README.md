@@ -7,7 +7,6 @@
 ## Project files
 
 | Report | [PDF](https://github.com/laurasansc/02456_scVAE/blob/main/docs/report/report_DL.pdf) |[Supplementary Material](https://github.com/laurasansc/02456_scVAE/blob/main/docs/report/supplementary.pdf) |
-|--------|-----|----|
 | Poster | [PDF](https://github.com/laurasansc/02456_scVAE/blob/main/docs/poster/scVAE_poster.pdf) |     |
 
 ## Project workflow
