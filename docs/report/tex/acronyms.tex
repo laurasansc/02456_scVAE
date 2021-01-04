@@ -1,0 +1,27 @@
+%% HOW TO CREATE AN ACRONYM
+% \newacronym{1}{2}{3}
+% 1: the LaTeX name of the acronym, you use this when you mention the acronym in the text with \gls{}, \Gls{} or \glspl{}
+% 2: the acronym that is displayed
+% 3: the full text what the acronym stands for, that is printed when \gls{} is used for the first time for this acronym
+% example: \newacronym{ppd}{PPD}{Pharmaceutical Process Development}
+% Usage in code then is: \gls{ppd} 
+% \glspl{ppd} would give you an s after the acronym+text. pl = plural
+% \Gls{} forces the first letter to be uppercase
+
+% TO PRINT ACRONYM LIST
+% use this command in main.tex:
+% \printglossary[type=\acronymtype ,title=List of abbreviations]
+% and make sure command \makeglossaries has been called before
+
+\newacronym{ffnn}{FFNN}{feed-forward neural network}
+\newacronym{vae}{VAE}{variational auto-encoder}
+\newacronym{scvae}{scVAE}{single-cell variational auto-encoder}
+\newacronym{scrna-seq}{scRNA-seq}{single-cell RNA sequencing}
+\newacronym{rna-seq}{RNA-seq}{RNA sequencing}
+\newacronym{lr}{LR}{latent representation}
+\newacronym{pca}{PCA}{principal component analysis}
+\newacronym{tsne}{tSNE}{t-distributed stochastic neighbor embedding}
+\newacronym{elbo}{ELBO}{evidence lower bound}
+\newacronym{ngs}{NGS}{next-generation sequencing}
+\newacronym{pbmc}{PBMC}{peripheral blood mononuclear cells}
+\newacronym{gmvae}{GMVAE}{gaussian mixture variational auto-encoder}
